@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=42564F&height=185&section=header&text=pepper's&fontColor=C0EB6A&fontAlign=75&desc=GitHub%20profile&descSize=13&descAlign=77&descAlignY=58&animation=fadeIn&fontAlignY=34&fontSize=40&rotate=13)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=42564F&height=185&section=header&text=ppeper's&fontColor=C0EB6A&fontAlign=75&desc=GitHub%20profile&descSize=13&descAlign=77&descAlignY=58&animation=fadeIn&fontAlignY=34&fontSize=40&rotate=13)
 ## - Most Interested:pencil2:
 <image src="https://user-images.githubusercontent.com/63226023/119218719-c562d880-bb1c-11eb-974f-0ac31ef1a7c6.png" height="30"> <image src="https://user-images.githubusercontent.com/63226023/119218763-0955dd80-bb1d-11eb-926c-550b3580a76d.png" height="40"> 
 * * *
-![pepper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppeper&show_icons=true&theme=gruvbox)
+![ppeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppeper&show_icons=true&theme=gruvbox)
 
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004506122210)](https://www.facebook.com/profile.php?id=100004506122210)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonhoo0123@gmail.com)](mailto:joonhoo0123@gmail.com)
