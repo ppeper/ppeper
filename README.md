@@ -7,4 +7,3 @@
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004506122210)](https://www.facebook.com/profile.php?id=100004506122210)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonhoo0123@gmail.com)](mailto:joonhoo0123@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jj._.nu_/)](https://www.instagram.com/jj._.nu_/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ppeper%2Fgjbae1212%2Fhit-counter&count_bg=%23B8D3AF&title_bg=%239EAE86&icon=github.svg&icon_color=%23565E49&title=&edge_flat=false)](https://hits.seeyoufarm.com)
