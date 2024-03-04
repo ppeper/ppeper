@@ -12,14 +12,16 @@
 
 <div align="center">
   
-   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004506122210)](https://www.facebook.com/profile.php?id=100004506122210)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonhoo0123@gmail.com)](mailto:joonhoo0123@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jj._.nu_/)](https://www.instagram.com/jj._.nu_/)
   <a href="https://ppeper.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   
   ![ppeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppeper&show_icons=true&theme=material-palenight)
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnsgn0123)](https://solved.ac/wnsgn0123)
 </div>
 
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpepper&count_bg=%23CA97D9&title_bg=%236E6969&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpepper&count_bg=%23CA97D9&title_bg=%236E6969&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>   <a href ="https://solved.ac/wnsgn0123">
+      <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsgn0123" style="vertical-align: middle;">
+  </a>
 </p>
